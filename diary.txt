@@ -1,3 +1,6 @@
+2012-02-20
+new ubuntu 64
+
 2011-06-02
 Thinking...
 Trying add _global folder to git
